@@ -1,0 +1,179 @@
+  [
+    {
+      "name": "iPhone 12",
+      "price": 999,
+      "feature": true,
+      "company": "apple"
+    },
+    
+    {
+      "name": "iPhone 11",
+      "price": 699,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone SE",
+      "price": 399,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 13",
+      "price": 1099,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone XR",
+      "price": 749,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone XS",
+      "price": 999,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 8",
+      "price": 449,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone SE 2020",
+      "price": 399,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone X",
+      "price": 999,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 7",
+      "price": 349,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "price": 1199,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 13 mini",
+      "price": 699,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "price": 1099,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 12 mini",
+      "price": 699,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 6s",
+      "price": 299,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 6",
+      "price": 199,
+      "feature": true,
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy S21",
+      "price": 899,
+      "feature": true,
+      "company": "samsung"
+    },
+    {
+      "name": "Galaxy Note 20",
+      "price": 999,
+      "feature": true,
+      "company": "samsung"
+    },
+    {
+      "name": "Galaxy A52",
+      "price": 399,
+      "feature": true,
+      "company": "samsung"
+    },
+    {
+      "name": "Galaxy S20 FE",
+      "price": 699,
+      "feature": true,
+      "company": "samsung"
+    },
+    {
+      "name": "Galaxy S10",
+      "price": 799,
+      "feature": true,
+      "company": "samsung"
+    },
+    {
+      "name": "Mi 11",
+      "price": 799,
+      "feature": true,
+      "company": "mi"
+    },
+    {
+      "name": "Redmi Note 10",
+      "price": 249,
+      "feature": true,
+      "company": "mi"
+    },
+    {
+      "name": "Mi 10T Pro",
+      "price": 499,
+      "feature": true,
+      "company": "mi"
+    },
+    {
+      "name": "XPS 13",
+      "price": 1099,
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "name": "Inspiron 15",
+      "price": 699,
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "name": "Latitude 14",
+      "price": 899,
+      "feature": true,
+      "company": "dell"
+    },
+    {
+      "name": "LG Velvet",
+      "price": 499.99,
+      "feature": false,
+      "rating": 4.3
+     
+    },
+    {
+      "name": "LG Velvet2",
+      "price": 499.99,
+      "feature": false,
+      "rating": 4.3
+     
+    }
+  ]
